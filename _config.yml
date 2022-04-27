@@ -35,7 +35,7 @@ github:
   username: mane             # change to your github username
 
 twitter:
-  username:             # change to your twitter username
+  username: null            # change to your twitter username
 
 social: mane
   # Change to your full name.
